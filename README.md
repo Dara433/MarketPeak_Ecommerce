@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 readme file
 # Objective
 
@@ -156,3 +157,6 @@ To Deploy, git pull is used to pull updated changes 'if any' from the remote rep
 We restarted the webserver to apply any changes that the remote repository may have possessed.
 
  ![sudo systemctl reload httpd](<img/20. sudo systemctl reload.png>)
+=======
+
+>>>>>>> 450d0a4d3157b9b9f3740903d6af69a95b9e7154
