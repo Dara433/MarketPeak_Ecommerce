@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-readme file
 # Objective
 
 The goal of this project is to create an e-commerce website called Marketpeak, enhancing its functionality and resolving bugs through continuous integration and deployment workflow. Utilizing Git for version control, the platform was built using  a pre=exising e-commerce website template, developed in a linux enviroment, and deployed on a AWS EC2 instance
